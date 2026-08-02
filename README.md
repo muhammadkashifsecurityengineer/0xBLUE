@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔵 0xBLUE
+# 0xBLUE 🔵
 ### SOC Analyst Arsenal
 
 **A curated, browser-importable bookmark collection for SOC Analysis, Incident Response, DFIR, Threat Hunting & Threat Intelligence.**
@@ -17,18 +17,18 @@
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents 📖
 
-- [🚀 Why This Exists](#-why-this-exists)
-- [📥 Import Instructions](#-import-instructions)
-- [🗂️ What's Inside](#️-whats-inside)
-- [🧭 Full Category Index](#-full-category-index)
-- [🛠️ Scope & Maintenance](#️-scope--maintenance)
-- [📜 License](#-license)
+- [Why This Exists 🚀](#why-this-exists-)
+- [Import Instructions 📥](#import-instructions-)
+- [What's Inside 🗂️](#whats-inside-️)
+- [Full Category Index 🧭](#full-category-index-)
+- [Scope & Maintenance 🛠️](#scope--maintenance-️)
+- [License 📜](#license-)
 
 ---
 
-## 🚀 Why This Exists
+## Why This Exists 🚀
 
 > Most "awesome list" repos for security are plain Markdown — which means copying and pasting links **one at a time**.
 
@@ -40,13 +40,13 @@
 
 ---
 
-## 📥 Import Instructions
+## Import Instructions 📥
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Chrome / Edge / Brave
+### Chrome / Edge / Brave 🌐
 1. Open Bookmark Manager
    `Ctrl+Shift+O` (Windows/Linux) or `Cmd+Shift+O` (Mac)
 2. Click the **⋮** three-dot menu
@@ -56,7 +56,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🦊 Firefox
+### Firefox 🦊
 1. Open the **Library**
    `Ctrl+Shift+O` (Windows/Linux) or `Cmd+Shift+O` (Mac)
 2. **Import and Backup → Import Bookmarks from HTML**
@@ -68,7 +68,7 @@
 
 ---
 
-## 🗂️ What's Inside
+## What's Inside 🗂️
 
 The `Tools` section alone is organized into **4 logical groups**, so the folder structure that lands in your browser is clean, not a flat dump of 400+ links:
 
@@ -83,7 +83,7 @@ Plus **13 standalone top-level categories** covering attack technique references
 
 ---
 
-## 🧭 Full Category Index
+## Full Category Index 🧭
 
 <details>
 <summary><strong>📚 Reference, Learning & Community</strong> (13 categories) — click to expand</summary>
@@ -111,16 +111,16 @@ Plus **13 standalone top-level categories** covering attack technique references
 
 | Category | Focus |
 |---|---|
-| Active Directory Security Auditing | Attack-path mapping and AD hardening (BloodHound CE, PingCastle, ADRecon) |
-| Container and Kubernetes Security | Image/cluster scanning + runtime threat detection (Trivy, kube-bench, kube-hunter, Falco) |
-| Honeypots and Deception | Attacker-facing decoys (T-Pot, Cowrie, Dionaea, OpenCanary, HoneyDB) |
-| Malware Analysis and Reverse Engineering | Static/dynamic toolchains (REMnux, FLARE-VM, Ghidra, CAPA, YARA) |
-| Misc Tools | Sysinternals, JWT decoding, PCAP analysis |
-| Sandboxes | Detonation platforms (CAPEv2, Cuckoo Sandbox, MetaDefender) |
-| Secrets and Supply Chain Security | TruffleHog, Gitleaks, detect-secrets, Syft, Grype |
-| SIEM and Log Management (Self-Hosted) | Wazuh, Graylog, Elastic Security |
-| Sysmon Configuration | Community Sysmon config templates for high-fidelity event logging |
-| Threat Hunting and DFIR | Velociraptor, KAPE, Volatility 3, Chainsaw, Hayabusa, Plaso, Timesketch, RegRipper, osquery, LimaCharlie, FTK Imager, Sleuth Kit |
+| 🩸 Active Directory Security Auditing | Attack-path mapping and AD hardening (BloodHound CE, PingCastle, ADRecon) |
+| 🐳 Container and Kubernetes Security | Image/cluster scanning + runtime threat detection (Trivy, kube-bench, kube-hunter, Falco) |
+| 🍯 Honeypots and Deception | Attacker-facing decoys (T-Pot, Cowrie, Dionaea, OpenCanary, HoneyDB) |
+| 🦠 Malware Analysis and Reverse Engineering | Static/dynamic toolchains (REMnux, FLARE-VM, Ghidra, CAPA, YARA) |
+| 🧰 Misc Tools | Sysinternals, JWT decoding, PCAP analysis |
+| 📦 Sandboxes | Detonation platforms (CAPEv2, Cuckoo Sandbox, MetaDefender) |
+| 🔐 Secrets and Supply Chain Security | TruffleHog, Gitleaks, detect-secrets, Syft, Grype |
+| 🗄️ SIEM and Log Management (Self-Hosted) | Wazuh, Graylog, Elastic Security |
+| ⚙️ Sysmon Configuration | Community Sysmon config templates for high-fidelity event logging |
+| 🕰️ Threat Hunting and DFIR | Velociraptor, KAPE, Volatility 3, Chainsaw, Hayabusa, Plaso, Timesketch, RegRipper, osquery, LimaCharlie, FTK Imager, Sleuth Kit |
 
 </details>
 
@@ -129,18 +129,18 @@ Plus **13 standalone top-level categories** covering attack technique references
 
 | Category | Focus |
 |---|---|
-| DNS | DNS history and lookup tools |
-| Detection Engineering and Rule Repositories | Sigma, Elastic, and Splunk detection content |
-| Detection Rule Conversion | Cross-SIEM detection rule translation (Uncoder AI, Snorpy) |
-| Network Forensics | Wireshark, NetworkMiner, Arkime, tcpdump, Zeek, Snort, Suricata |
-| Network Scanning | Passive and active reconnaissance utilities |
-| Purple Team and Adversary Emulation | MITRE Caldera, Stratus Red Team, Infection Monkey |
-| Query Language and SIEM Cheat Sheets | SPL, KQL, Elasticsearch Query DSL references |
-| Ransomware and C2 Tracking | Ransomware leak site and C2 infrastructure trackers |
-| SOAR and Case Management | Cortex, Shuffle |
-| SSL/TLS | Certificate and TLS configuration testing |
-| Threat Intelligence Platforms | MISP, OpenCTI, Malpedia, EDR Telemetry, threatfeeds.io |
-| Threat Modeling | OWASP Threat Dragon |
+| 🌐 DNS | DNS history and lookup tools |
+| 🔎 Detection Engineering and Rule Repositories | Sigma, Elastic, and Splunk detection content |
+| 🔄 Detection Rule Conversion | Cross-SIEM detection rule translation (Uncoder AI, Snorpy) |
+| 📡 Network Forensics | Wireshark, NetworkMiner, Arkime, tcpdump, Zeek, Snort, Suricata |
+| 🛰️ Network Scanning | Passive and active reconnaissance utilities |
+| ⚔️ Purple Team and Adversary Emulation | MITRE Caldera, Stratus Red Team, Infection Monkey |
+| 📊 Query Language and SIEM Cheat Sheets | SPL, KQL, Elasticsearch Query DSL references |
+| 💰 Ransomware and C2 Tracking | Ransomware leak site and C2 infrastructure trackers |
+| 🎼 SOAR and Case Management | Cortex, Shuffle |
+| 🔒 SSL/TLS | Certificate and TLS configuration testing |
+| 🧠 Threat Intelligence Platforms | MISP, OpenCTI, Malpedia, EDR Telemetry, threatfeeds.io |
+| 🗺️ Threat Modeling | OWASP Threat Dragon |
 
 </details>
 
@@ -149,24 +149,24 @@ Plus **13 standalone top-level categories** covering attack technique references
 
 | Category | Focus |
 |---|---|
-| ASN | Autonomous system number lookups |
-| Breach and Leak Checking | Credential exposure and leak-database lookups |
-| Browser and Mobile Forensics | Hindsight, ALEAPP, iLEAPP |
-| Browser Extension | Browser extension inspection |
-| Certificate | Certificate transparency and lookup |
-| Cloud Security Posture | Prowler, ScoutSuite (AWS/Azure/GCP auditing) |
-| Emails | Header and DMARC/SPF/DKIM analysis |
-| EXE Lookup | Windows binary reputation lookup |
-| Fingerprinting | Internet-wide asset and exposure search engines |
-| Hash | Hash calculation, cracking, NSRL lookup |
-| IOC Lookups | IP, domain, URL, and hash reputation services |
-| MAC | MAC address vendor lookup |
-| Multifunctional LookUp Services | General-purpose recon and lookup platforms (CentralOps, IPinfo.io) |
-| OSINT | theHarvester, SpiderFoot, Maltego, Amass, Recon-ng, Sherlock |
-| Phishing Analysis | PhishTool, ThePhish, Gophish, Phish Report, OpenPhish |
-| USB and PCI | Device and vendor ID lookup |
-| User Agent | User agent string parsing |
-| WHOIS and Domain Registration Lookup | Domain ownership and registration records |
+| 🔢 ASN | Autonomous system number lookups |
+| 💧 Breach and Leak Checking | Credential exposure and leak-database lookups |
+| 📱 Browser and Mobile Forensics | Hindsight, ALEAPP, iLEAPP |
+| 🧩 Browser Extension | Browser extension inspection |
+| 📜 Certificate | Certificate transparency and lookup |
+| ☁️ Cloud Security Posture | Prowler, ScoutSuite (AWS/Azure/GCP auditing) |
+| 📧 Emails | Header and DMARC/SPF/DKIM analysis |
+| 🧾 EXE Lookup | Windows binary reputation lookup |
+| 👆 Fingerprinting | Internet-wide asset and exposure search engines |
+| #️⃣ Hash | Hash calculation, cracking, NSRL lookup |
+| 🚩 IOC Lookups | IP, domain, URL, and hash reputation services |
+| 🏷️ MAC | MAC address vendor lookup |
+| 🧭 Multifunctional LookUp Services | General-purpose recon and lookup platforms (CentralOps, IPinfo.io) |
+| 🔍 OSINT | theHarvester, SpiderFoot, Maltego, Amass, Recon-ng, Sherlock |
+| 🎣 Phishing Analysis | PhishTool, ThePhish, Gophish, Phish Report, OpenPhish |
+| 🔌 USB and PCI | Device and vendor ID lookup |
+| 🖱️ User Agent | User agent string parsing |
+| 🏛️ WHOIS and Domain Registration Lookup | Domain ownership and registration records |
 
 </details>
 
@@ -175,17 +175,17 @@ Plus **13 standalone top-level categories** covering attack technique references
 
 | Category | Focus |
 |---|---|
-| CMS Scan | WordPress, Joomla, Drupal security scanning |
-| Data Manipulation Online Tools | CyberChef, regex, formatting, diff utilities, jq |
-| URL | URL scanning and phishing detection (Wannabrowser, Unshorten.it) |
-| Vulnerability Management | Nuclei, Greenbone/OpenVAS, Exploit-DB, Vulners, NVD |
-| Website Scan | Link extraction and web technology fingerprinting |
+| 🧱 CMS Scan | WordPress, Joomla, Drupal security scanning |
+| 🧪 Data Manipulation Online Tools | CyberChef, regex, formatting, diff utilities, jq |
+| 🔗 URL | URL scanning and phishing detection (Wannabrowser, Unshorten.it) |
+| 🐞 Vulnerability Management | Nuclei, Greenbone/OpenVAS, Exploit-DB, Vulners, NVD |
+| 🕸️ Website Scan | Link extraction and web technology fingerprinting |
 
 </details>
 
 ---
 
-## 🛠️ Scope & Maintenance
+## Scope & Maintenance 🛠️
 
 - ✅ Every link is verified reachable and current as of the last update. Dead or superseded tools (e.g. the original `dnSpy` or `CRXcavator`) are swapped for their actively maintained successors — never left as dead links.
 - 🆓 The collection favors **free and community-accessible resources** over vendor-gated platforms, so it stays usable without enterprise licensing.
@@ -194,7 +194,7 @@ Plus **13 standalone top-level categories** covering attack technique references
 
 ---
 
-## 📜 License
+## License 📜
 
 <div align="center">
 
