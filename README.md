@@ -41,51 +41,51 @@ Listed in the same alphabetical order used inside `bookmarks.html`.
 | Sample Datasets and Practice Environments | Realistic public datasets and lab environments for hands-on practice (Splunk BOTS v1-v3, OTRF Security Datasets / Mordor, DetectionLab, Malware-Traffic-Analysis.net) |
 | Training and Certifications | SOC-focused courses and certifications (GIAC, SANS, OffSec, TCM, Security Blue Team) |
 | Twitter/X | Accounts tracking malware, threat intel, and breaking security news |
-| Tools > Active Directory Security Auditing | Attack-path mapping and AD hardening assessment (BloodHound CE, PingCastle, ADRecon) |
-| Tools > ASN | Autonomous system number lookups |
-| Tools > Breach and Leak Checking | Credential exposure and leak-database lookups |
-| Tools > Browser and Mobile Forensics | Browser artifact and mobile device parsing (Hindsight, ALEAPP, iLEAPP) |
-| Tools > Browser Extension | Browser extension inspection |
-| Tools > Certificate | Certificate transparency and lookup |
-| Tools > Cloud Security Posture | AWS/Azure/GCP configuration auditing (Prowler, ScoutSuite) |
-| Tools > CMS Scan | WordPress, Joomla, and Drupal security scanning |
-| Tools > Container and Kubernetes Security | Image and cluster scanning plus runtime threat detection (Trivy, kube-bench, kube-hunter, Falco) |
-| Tools > Data Manipulation Online Tools | CyberChef, regex, formatting, and diff utilities |
-| Tools > Detection Engineering and Rule Repositories | Sigma, Elastic, and Splunk detection content |
-| Tools > Detection Rule Conversion | Cross-SIEM detection rule translation |
-| Tools > DNS | DNS history and lookup tools |
-| Tools > Emails | Header and DMARC/SPF/DKIM analysis |
-| Tools > EXE Lookup | Windows binary reputation lookup |
-| Tools > Fingerprinting | Internet-wide asset and exposure search engines |
-| Tools > Hash | Hash calculation, cracking, and NSRL lookup |
-| Tools > Honeypots and Deception | Attacker-facing decoy infrastructure (T-Pot, Cowrie, Dionaea, OpenCanary) |
-| Tools > IOC Lookups | IP, domain, URL, and hash reputation services |
-| Tools > MAC | MAC address vendor lookup |
-| Tools > Malware Analysis and Reverse Engineering | Static and dynamic analysis toolchains (REMnux, FLARE-VM, Ghidra, CAPA, YARA) |
-| Tools > Misc Tools | General-purpose analyst utilities (Sysinternals, JWT decoding, PCAP analysis) |
-| Tools > Multifunctional LookUp Services | General-purpose recon and lookup platforms |
-| Tools > Network Forensics | Packet capture and traffic analysis (Wireshark, NetworkMiner, Arkime, tcpdump, Zeek, Snort, Suricata) |
-| Tools > Network Scanning | Passive and active reconnaissance utilities |
-| Tools > OSINT | Reconnaissance and attack surface discovery (theHarvester, SpiderFoot, Maltego, Amass, Recon-ng, Sherlock) |
-| Tools > Phishing Analysis | Reported email triage, automated analysis, phishing simulation, and site takedown (PhishTool, ThePhish, Gophish, Phish Report) |
-| Tools > Purple Team and Adversary Emulation | Adversary emulation platforms (MITRE Caldera, Stratus Red Team, Infection Monkey) |
-| Tools > Query Language and SIEM Cheat Sheets | SPL, KQL, and Elasticsearch Query DSL references |
-| Tools > Ransomware and C2 Tracking | Ransomware leak site and C2 infrastructure trackers |
-| Tools > Sandboxes | Malware detonation and behavioral analysis platforms, including the open-source CAPEv2 sandbox |
-| Tools > Secrets and Supply Chain Security | Credential and dependency scanning (TruffleHog, Gitleaks, detect-secrets, Syft, Grype) |
-| Tools > SIEM and Log Management (Self-Hosted) | Open-source SIEM/log platforms (Wazuh, Graylog, Elastic Security) |
-| Tools > SOAR and Case Management | Analyzer engines and open-source orchestration (Cortex, Shuffle) |
-| Tools > SSL/TLS | Certificate and TLS configuration testing |
-| Tools > Sysmon Configuration | Community-maintained Sysmon config templates for high-fidelity event logging |
-| Tools > Threat Hunting and DFIR | Endpoint forensics, memory analysis, timeline reconstruction, and triage tooling (Velociraptor, KAPE, Volatility 3, Chainsaw, Hayabusa, Plaso, Timesketch, RegRipper, osquery, LimaCharlie) |
-| Tools > Threat Intelligence Platforms | MISP, OpenCTI, Malpedia, EDR Telemetry |
-| Tools > Threat Modeling | Structured application threat modeling (OWASP Threat Dragon) |
-| Tools > URL | URL scanning and phishing detection |
-| Tools > USB and PCI | Device and vendor ID lookup |
-| Tools > User Agent | User agent string parsing |
-| Tools > Vulnerability Management | Scanning and exploit reference (Nuclei, Greenbone/OpenVAS, Exploit-DB, Vulners, NVD) |
-| Tools > Website Scan | Link extraction and web technology fingerprinting |
-| Tools > WHOIS and Domain Registration Lookup | Domain ownership and registration records |
+| Tools → Active Directory Security Auditing | Attack-path mapping and AD hardening assessment (BloodHound CE, PingCastle, ADRecon) |
+| Tools → ASN | Autonomous system number lookups |
+| Tools → Breach and Leak Checking | Credential exposure and leak-database lookups |
+| Tools → Browser and Mobile Forensics | Browser artifact and mobile device parsing (Hindsight, ALEAPP, iLEAPP) |
+| Tools → Browser Extension | Browser extension inspection |
+| Tools → Certificate | Certificate transparency and lookup |
+| Tools → Cloud Security Posture | AWS/Azure/GCP configuration auditing (Prowler, ScoutSuite) |
+| Tools → CMS Scan | WordPress, Joomla, and Drupal security scanning |
+| Tools → Container and Kubernetes Security | Image and cluster scanning plus runtime threat detection (Trivy, kube-bench, kube-hunter, Falco) |
+| Tools → Data Manipulation Online Tools | CyberChef, regex, formatting, and diff utilities |
+| Tools → Detection Engineering and Rule Repositories | Sigma, Elastic, and Splunk detection content |
+| Tools → Detection Rule Conversion | Cross-SIEM detection rule translation |
+| Tools → DNS | DNS history and lookup tools |
+| Tools → Emails | Header and DMARC/SPF/DKIM analysis |
+| Tools → EXE Lookup | Windows binary reputation lookup |
+| Tools → Fingerprinting | Internet-wide asset and exposure search engines |
+| Tools → Hash | Hash calculation, cracking, and NSRL lookup |
+| Tools → Honeypots and Deception | Attacker-facing decoy infrastructure (T-Pot, Cowrie, Dionaea, OpenCanary) |
+| Tools → IOC Lookups | IP, domain, URL, and hash reputation services |
+| Tools → MAC | MAC address vendor lookup |
+| Tools → Malware Analysis and Reverse Engineering | Static and dynamic analysis toolchains (REMnux, FLARE-VM, Ghidra, CAPA, YARA) |
+| Tools → Misc Tools | General-purpose analyst utilities (Sysinternals, JWT decoding, PCAP analysis) |
+| Tools → Multifunctional LookUp Services | General-purpose recon and lookup platforms |
+| Tools → Network Forensics | Packet capture and traffic analysis (Wireshark, NetworkMiner, Arkime, tcpdump, Zeek, Snort, Suricata) |
+| Tools → Network Scanning | Passive and active reconnaissance utilities |
+| Tools → OSINT | Reconnaissance and attack surface discovery (theHarvester, SpiderFoot, Maltego, Amass, Recon-ng, Sherlock) |
+| Tools → Phishing Analysis | Reported email triage, automated analysis, phishing simulation, and site takedown (PhishTool, ThePhish, Gophish, Phish Report) |
+| Tools → Purple Team and Adversary Emulation | Adversary emulation platforms (MITRE Caldera, Stratus Red Team, Infection Monkey) |
+| Tools → Query Language and SIEM Cheat Sheets | SPL, KQL, and Elasticsearch Query DSL references |
+| Tools → Ransomware and C2 Tracking | Ransomware leak site and C2 infrastructure trackers |
+| Tools → Sandboxes | Malware detonation and behavioral analysis platforms, including the open-source CAPEv2 sandbox |
+| Tools → Secrets and Supply Chain Security | Credential and dependency scanning (TruffleHog, Gitleaks, detect-secrets, Syft, Grype) |
+| Tools → SIEM and Log Management (Self-Hosted) | Open-source SIEM/log platforms (Wazuh, Graylog, Elastic Security) |
+| Tools → SOAR and Case Management | Analyzer engines and open-source orchestration (Cortex, Shuffle) |
+| Tools → SSL/TLS | Certificate and TLS configuration testing |
+| Tools → Sysmon Configuration | Community-maintained Sysmon config templates for high-fidelity event logging |
+| Tools → Threat Hunting and DFIR | Endpoint forensics, memory analysis, timeline reconstruction, and triage tooling (Velociraptor, KAPE, Volatility 3, Chainsaw, Hayabusa, Plaso, Timesketch, RegRipper, osquery, LimaCharlie) |
+| Tools → Threat Intelligence Platforms | MISP, OpenCTI, Malpedia, EDR Telemetry |
+| Tools → Threat Modeling | Structured application threat modeling (OWASP Threat Dragon) |
+| Tools → URL | URL scanning and phishing detection |
+| Tools → USB and PCI | Device and vendor ID lookup |
+| Tools → User Agent | User agent string parsing |
+| Tools → Vulnerability Management | Scanning and exploit reference (Nuclei, Greenbone/OpenVAS, Exploit-DB, Vulners, NVD) |
+| Tools → Website Scan | Link extraction and web technology fingerprinting |
+| Tools → WHOIS and Domain Registration Lookup | Domain ownership and registration records |
 
 ## Scope and maintenance notes
 
