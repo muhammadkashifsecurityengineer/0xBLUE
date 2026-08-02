@@ -4,7 +4,7 @@ Author: [Muhammad Kashif | GitHub](https://github.com/muhammadkashifsecurityengi
 
 A curated, browser-importable bookmark collection covering SOC Analysis, Incident Response, DFIR, Threat Hunting, and Threat Intelligence.
 
-453 links across 61 categories, spanning reference material, attack techniques, log schemas, blue team tooling, sample datasets, training, and community resources. Categories and links are sorted alphabetically throughout.
+474 links across 61 categories, spanning reference material, attack techniques, log schemas, blue team tooling, sample datasets, training, and community resources. Categories and links are sorted alphabetically throughout.
 
 ## Why this exists
 
